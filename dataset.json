@@ -1057,13 +1057,6 @@
         "download_url": "http://github.com/baselineHelper/repo/blob/master/datasets/tic-tac-toe.zip?raw=true"
     },
     {
-        "instances": 1980,
-        "features": 2,
-        "imbalance": 0.06263323370629309,
-        "dataset_name": "titanic",
-        "download_url": "http://github.com/baselineHelper/repo/blob/master/datasets/titanic.zip?raw=true"
-    },
-    {
         "instances": 862,
         "features": 2,
         "imbalance": 0.038757460467270716,
